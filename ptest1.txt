@@ -1,2 +1,4 @@
 My first Git file
 Second commit 
+
+Git push -u origin master 
